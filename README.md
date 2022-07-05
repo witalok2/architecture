@@ -7,8 +7,6 @@ Tools:
 - [Docker](https://docs.docker.com/desktop/)
 - [Golang](https://golang.org/doc/install)
 - [Nodemon](https://nodemon.io/)
-- [Goose](https://pressly.github.io/goose/)
-- [sonarqube](https://www.sonarqube.org/)
 
 ### How to run
 ```bash
