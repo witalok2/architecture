@@ -6,7 +6,6 @@ Tools:
 
 - [Docker](https://docs.docker.com/desktop/)
 - [Golang](https://golang.org/doc/install)
-- [Nodemon](https://nodemon.io/)
 
 ### How to run
 ```bash

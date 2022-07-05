@@ -14,9 +14,6 @@ compose-up::
 run:: 
 	VERSION=$(VERSION) go run ./cmd/main.go -port=9000 -debug=true
 
-run-watch::
-	VERSION=$(VERSION) nodemon --exec go run ./cmd/main.go -port=9000 -debug=true --signal SIGTERM
-
 test:: ## Do the tests in go
 	@ go test -race -coverprofile $(go_cover_file) ./...
 
