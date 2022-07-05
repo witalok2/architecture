@@ -11,7 +11,7 @@ Tools:
 ### How to run
 ```bash
 first run 'make compose-up' to run the ecosystem
-then ('make run' / 'make run-watch') or 'go run main.go -port=3005 -debug=true' to run the application
+then 'make run' or 'go run main.go -port=3005 -debug=true' to run the application
 ```
 
 ```bash
