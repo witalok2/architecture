@@ -6,8 +6,8 @@ import (
 
 	"github.com/labstack/echo/v4"
 	logger "github.com/sirupsen/logrus"
-	"github.com/witalok2/api-rest/adapters/primary/api"
-	"github.com/witalok2/api-rest/adapters/secondary/postgres"
+	"github.com/witalok2/api-rest/adapter/primary/api"
+	"github.com/witalok2/api-rest/adapter/secondary/postgres"
 	"github.com/witalok2/api-rest/config"
 	"github.com/witalok2/api-rest/internal/domain/user"
 	"github.com/witalok2/api-rest/internal/entity"

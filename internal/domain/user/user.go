@@ -3,7 +3,7 @@ package user
 import (
 	"context"
 
-	"github.com/witalok2/api-rest/adapters/secondary/postgres"
+	"github.com/witalok2/api-rest/adapter/secondary/postgres"
 	"github.com/witalok2/api-rest/internal/entity"
 )
 
